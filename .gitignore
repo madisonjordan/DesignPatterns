@@ -1,3 +1,13 @@
+# OS Specific
+.DS_Store
+
+# IDE 
+.idea
+*.iml
+
+# output
+out/
+
 # Compiled class file
 *.class
 
